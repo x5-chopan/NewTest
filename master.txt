@@ -1,3 +1,4 @@
 master.txt
 develop
 hotfix
+hotfix2.txt
